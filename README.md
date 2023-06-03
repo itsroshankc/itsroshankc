@@ -1,16 +1,20 @@
-### Hi there 👋
+Hey Buddy 💖🙋‍♂️🙋‍♂️ :
 
-<!--
-**itsroshankc/itsroshankc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m Roshan K.C. , Welcome to my Profile.
 
-Here are some ideas to get you started:
+😉 I love coding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently Data Science,
+
+💞️ I’m looking to collaborate on projects like=()=>(
+                     i. Web Development (Using Twailwind CSS,Bootstrap,Materialize CSS)
+                     ii. --------------
+                     iii. -------------
+                  )
+                  
+👀 I’m interested in Data Science, Coding Challanges, Designing, web development,
+                Content Writing, Social Media Handling,etc
+                
+📫 How to reach me : officialroshankc@gmail.com
+
+⚡ Fun fact: I'm intrested in learning new things related to tech.
