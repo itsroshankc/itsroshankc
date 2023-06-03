@@ -6,11 +6,7 @@ Hey Buddy 💖🙋‍♂️🙋‍♂️ :
 
 🌱 I’m currently Data Science,
 
-💞️ I’m looking to collaborate on projects like=()=>(
-                     i. Web Development (Using Twailwind CSS,Bootstrap,Materialize CSS)
-                     ii. --------------
-                     iii. -------------
-                  )
+💞️ I’m looking to collaborate on projects like : Web Development, python projects , Basic_data_science_projets, coducting_virtaul_programs, etc.
                   
 👀 I’m interested in Data Science, Coding Challanges, Designing, web development,
                 Content Writing, Social Media Handling,etc
