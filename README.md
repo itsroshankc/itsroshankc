@@ -4,7 +4,7 @@ Hey Buddy 💖🙋‍♂️🙋‍♂️ :
 
 😉 I love coding.
 
-🌱 I’m currently Data Science,
+🌱 I’m currently learning Data Science,
 
 💞️ I’m looking to collaborate on projects like : Web Development, python projects , Basic_data_science_projets, coducting_virtaul_programs, etc.
                   
